@@ -1,11 +1,11 @@
 # Hybrid-Communication-System-FSO-Fiber-and-RF
-###Project Overview:
+### Project Overview:
 
 Designed and implemented a hybrid communication system integrating Free Space Optics (FSO), fiber optics, and RF communication.
 
 Successfully transmitted a text message across the hybrid FSO-fiber-RF system using MATLAB for signal processing.
 
-###Key Features:
+### Key Features:
 
 Integration of FSO, fiber optics, and RF technologies.
 
@@ -13,7 +13,7 @@ Signal processing, modulation, and demodulation performed using MATLAB.
 
 Addressed challenges and limitations of each communication medium.
 
-###Objectives:
+### Objectives:
 
 Demonstrated the integration of multiple communication media.
 
@@ -31,7 +31,7 @@ FSO Channel: Signal modulated with a square root cosine filter and transmitted a
 
 Reception and Processing: Optical signal converted into RF signal and demodulated using MATLAB.
 
-###Results and Discussion:
+### Results and Discussion:
 
 Successfully transmitted text message with minimal distortion.
 
@@ -39,13 +39,13 @@ Fiber optics effectively maintained signal integrity during transmission.
 
 Addressed FSO alignment and conversion losses.
 
-###Conclusion:
+### Conclusion:
 
 Successfully designed and implemented a hybrid communication system combining FSO, fiber optics, and RF communication.
 
 Paved the way for further research and development in the field of hybrid communication systems.
 
-###Future Scope:
+### Future Scope:
 
 Exploring higher data rates using advanced modulation techniques.
 
